@@ -1,11 +1,6 @@
 # Vendor-Sales-Analysis-
 This project analyzes vendor sales data to find low-turnover vendors, compare profit margins, and identify brands for promotions. Using data filtering, correlation heatmaps, and hypothesis testing, it offers actionable recommendations to diversify the vendor base and optimize inventory for improved profitability and efficiency.
 
-
-Vendor Performance Analysis
- About This Project
-This project analyzes vendor sales and performance data. It takes data from a database, cleans it, and then runs an analysis to find key insights into vendor sales, profitability, and efficiency.
-
 Project Workflow
 The project follows these simple steps:
 
