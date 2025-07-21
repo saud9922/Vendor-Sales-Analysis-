@@ -15,11 +15,12 @@ Files in This Repository
 
 ingestion_db.py: A Python script to connect to and pull data from the source database.
 
-export_to_csv.ipynb: A Jupyter Notebook to export the raw data into a clean CSV file.
+
+EDA.ipynb: A Jupyter Notebook for initial Exploratory Data Analysis of the vendor data.
 
 vendor_sales_summary.csv: The final, clean dataset used for the analysis.
 
-EDA.ipynb: A Jupyter Notebook for initial Exploratory Data Analysis of the vendor data.
+export_to_csv.ipynb: A Jupyter Notebook to export the raw data into a clean CSV file.
 
 vendor perfomance analysis.ipynb: The main Jupyter Notebook containing the detailed performance analysis and key findings.
 
