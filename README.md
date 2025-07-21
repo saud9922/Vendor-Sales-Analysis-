@@ -6,9 +6,10 @@ The project follows these simple steps:
 
 Data Ingestion: The ingestion_db.py script pulls the initial data from a database.
 
-Data Export: The export_to_csv.ipynb notebook processes and saves this data into the vendor_sales_summary.csv file.
 
 Analysis: The EDA.ipynb and vendor perfomance analysis.ipynb notebooks are used to explore and analyze the data to find insights.
+
+Data Export: The export_to_csv.ipynb notebook processes and saves this data into the vendor_sales_summary.csv file.
 
 Files in This Repository
 ingestion_db.py: A Python script to connect to and pull data from the source database.
