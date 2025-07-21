@@ -22,7 +22,8 @@ vendor_sales_summary.csv: The final, clean dataset used for the analysis.
 
 export_to_csv.ipynb: A Jupyter Notebook to export the raw data into a clean CSV file.
 
-vendor perfomance analysis.ipynb: The main Jupyter Notebook containing the detailed performance analysis and key findings.
+vendor perfomance analysis.ipynb: 
+The main Jupyter Notebook containing the detailed performance analysis and key findings.
 
  How to Use
 To run this project, follow the notebooks in order:
