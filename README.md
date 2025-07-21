@@ -12,6 +12,7 @@ Analysis: The EDA.ipynb and vendor perfomance analysis.ipynb notebooks are used 
 Data Export: The export_to_csv.ipynb notebook processes and saves this data into the vendor_sales_summary.csv file.
 
 Files in This Repository
+
 ingestion_db.py: A Python script to connect to and pull data from the source database.
 
 export_to_csv.ipynb: A Jupyter Notebook to export the raw data into a clean CSV file.
